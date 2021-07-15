@@ -1,0 +1,98 @@
+body {
+    background-color:pink;
+    color: black;
+    font-style:oblique;
+    font-weight: bolder;
+    border-style:dotted;
+    text-align: center;
+    
+}
+footer{
+    background-color: azure;
+    text-align: center;
+    text-transform: lowercase;
+    color:black;
+
+}
+header{
+    text-align: center;
+}
+
+
+
+
+
+header{
+    width: inherit;
+    height: 50%;
+    background:pink;
+    padding:inherit;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    color:rgb(114, 66, 20);
+    font-style:oblique;
+    font-weight: bold;
+    text-align:left;
+}
+nav{
+
+    height:0;
+    background:pink;
+    padding: 20px;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-style:oblique;
+    font-weight: bold;
+    text-align:right;
+
+}
+blockquote{
+    height: 50px;
+    background: rgb(224, 161, 59);
+    color: black;
+}
+
+body{
+    height: 100%;
+
+}
+body {
+
+    background: beige;
+    padding: 20px;;
+    margin:0;
+    font-family: "Open Sans", sans-serif;
+    color:rgb(114, 66, 20);
+    font-style:oblique;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin: auto;
+    border-width: thick;
+    border-color:thistle;
+    border-style:double;
+    border-radius:inherit;
+    padding-top: 10%;
+    padding-bottom: 20%;
+
+
+
+}
+footer{
+
+    background:pink;
+    text-align: center;
+    padding: 1px;
+    text-transform: lowercase;
+    margin-bottom: 0%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin: auto;
+    padding-top: 10%;
+    padding-bottom: 0;
+}
+
